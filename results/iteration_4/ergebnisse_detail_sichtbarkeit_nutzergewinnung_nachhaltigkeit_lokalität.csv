@@ -1,0 +1,4 @@
+Anbieter,Nachfrager,Netzwerkeffekte,Neue Anbieter,Neue Nachfrager,Abgewanderte Anbieter,Abgewanderte Nachfrager,Beitrittsrate Anbieter,Beitrittsrate Nachfrager,Strategien,Seed,Dateiname
+420.0,16424.0,9180.942799999999,3.0,56.0,0.0,0.0,0.2,0.3,"Sichtbarkeit & Nutzergewinnung, Nachhaltigkeit & Lokalität",32048,simulation_sichtbarkeit_nutzergewinnung_nachhaltigkeit_lokalität_run1_seed32048.csv
+408.0,17311.0,9683.6528,4.0,50.0,0.0,0.0,0.2,0.3,"Sichtbarkeit & Nutzergewinnung, Nachhaltigkeit & Lokalität",32049,simulation_sichtbarkeit_nutzergewinnung_nachhaltigkeit_lokalität_run2_seed32049.csv
+370.0,15951.0,8911.672799999998,2.0,49.0,0.0,0.0,0.2,0.3,"Sichtbarkeit & Nutzergewinnung, Nachhaltigkeit & Lokalität",32050,simulation_sichtbarkeit_nutzergewinnung_nachhaltigkeit_lokalität_run3_seed32050.csv

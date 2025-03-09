@@ -1,0 +1,4 @@
+Anbieter,Nachfrager,Netzwerkeffekte,Neue Anbieter,Neue Nachfrager,Abgewanderte Anbieter,Abgewanderte Nachfrager,Beitrittsrate Anbieter,Beitrittsrate Nachfrager,Strategien,Seed,Dateiname
+382.0,16446.0,9196.108,1.0,53.0,1.0,0.0,0.2,0.3,SEM,20042,simulation_sem_run1_seed20042.csv
+394.0,16766.0,9357.004666666668,2.0,59.0,0.0,0.0,0.2,0.3,SEM,20043,simulation_sem_run2_seed20043.csv
+441.0,16738.0,9360.838,2.0,48.0,0.0,0.0,0.2,0.3,SEM,20044,simulation_sem_run3_seed20044.csv

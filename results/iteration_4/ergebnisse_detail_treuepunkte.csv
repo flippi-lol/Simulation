@@ -1,0 +1,4 @@
+Anbieter,Nachfrager,Netzwerkeffekte,Neue Anbieter,Neue Nachfrager,Abgewanderte Anbieter,Abgewanderte Nachfrager,Beitrittsrate Anbieter,Beitrittsrate Nachfrager,Strategien,Seed,Dateiname
+457.0,16625.0,9325.0,4.0,51.0,1.0,0.0,0.2,0.3,Treuepunkte,30042,simulation_treuepunkte_run1_seed30042.csv
+397.0,16497.0,9183.753333333332,0.0,52.0,0.0,0.0,0.2,0.3,Treuepunkte,30043,simulation_treuepunkte_run2_seed30043.csv
+451.0,16773.0,9382.79,1.0,53.0,0.0,0.0,0.2,0.3,Treuepunkte,30044,simulation_treuepunkte_run3_seed30044.csv

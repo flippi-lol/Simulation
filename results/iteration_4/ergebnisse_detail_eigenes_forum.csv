@@ -1,0 +1,4 @@
+Anbieter,Nachfrager,Netzwerkeffekte,Neue Anbieter,Neue Nachfrager,Abgewanderte Anbieter,Abgewanderte Nachfrager,Beitrittsrate Anbieter,Beitrittsrate Nachfrager,Strategien,Seed,Dateiname
+457.0,16625.0,9319.6,4.0,51.0,1.0,0.0,0.2,0.3,Eigenes Forum,30042,simulation_eigenes_forum_run1_seed30042.csv
+397.0,16497.0,9178.353333333333,0.0,52.0,0.0,0.0,0.2,0.3,Eigenes Forum,30043,simulation_eigenes_forum_run2_seed30043.csv
+451.0,16773.0,9377.390000000001,1.0,53.0,0.0,0.0,0.2,0.3,Eigenes Forum,30044,simulation_eigenes_forum_run3_seed30044.csv

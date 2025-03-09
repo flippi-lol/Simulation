@@ -1,0 +1,4 @@
+Anbieter,Nachfrager,Netzwerkeffekte,Neue Anbieter,Neue Nachfrager,Abgewanderte Anbieter,Abgewanderte Nachfrager,Beitrittsrate Anbieter,Beitrittsrate Nachfrager,Strategien,Seed,Dateiname
+373.0,15175.0,8499.553333333333,3.0,37.0,0.0,0.0,0.19606461277366133,0.3,"Monetarisierung, Nachhaltigkeit & Lokalität",32054,simulation_monetarisierung_nachhaltigkeit_lokalität_run1_seed32054.csv
+390.0,16059.0,8984.856666666665,1.0,44.0,0.0,0.0,0.2,0.3,"Monetarisierung, Nachhaltigkeit & Lokalität",32055,simulation_monetarisierung_nachhaltigkeit_lokalität_run2_seed32055.csv
+445.0,17027.0,9512.989999999998,2.0,55.0,0.0,0.0,0.2,0.3,"Monetarisierung, Nachhaltigkeit & Lokalität",32056,simulation_monetarisierung_nachhaltigkeit_lokalität_run3_seed32056.csv

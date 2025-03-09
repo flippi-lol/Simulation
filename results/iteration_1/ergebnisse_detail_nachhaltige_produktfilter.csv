@@ -1,0 +1,6 @@
+Anbieter,Nachfrager,Netzwerkeffekte,Neue Anbieter,Neue Nachfrager,Abgewanderte Anbieter,Abgewanderte Nachfrager,Beitrittsrate Anbieter,Beitrittsrate Nachfrager,Strategien,Seed,Dateiname
+364.0,16913.0,9430.216666666667,3.0,50.0,0.0,0.0,0.2,0.3,Nachhaltige Produktfilter,42,simulation_nachhaltige_produktfilter_run1_seed42.csv
+358.0,16103.0,8992.466666666667,2.0,64.0,0.0,0.0,0.19970852656493282,0.3,Nachhaltige Produktfilter,43,simulation_nachhaltige_produktfilter_run2_seed43.csv
+429.0,16512.0,9241.269999999999,1.0,40.0,0.0,0.0,0.2,0.3,Nachhaltige Produktfilter,44,simulation_nachhaltige_produktfilter_run3_seed44.csv
+407.0,16203.0,9059.769999999999,2.0,52.0,0.0,0.0,0.2,0.3,Nachhaltige Produktfilter,45,simulation_nachhaltige_produktfilter_run4_seed45.csv
+425.0,16727.0,9371.756666666666,1.0,48.0,0.0,0.0,0.2,0.3,Nachhaltige Produktfilter,46,simulation_nachhaltige_produktfilter_run5_seed46.csv

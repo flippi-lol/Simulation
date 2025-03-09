@@ -1,0 +1,4 @@
+Anbieter,Nachfrager,Netzwerkeffekte,Neue Anbieter,Neue Nachfrager,Abgewanderte Anbieter,Abgewanderte Nachfrager,Beitrittsrate Anbieter,Beitrittsrate Nachfrager,Strategien,Seed,Dateiname
+427.0,15964.0,8937.06,0.0,43.0,0.0,0.0,0.2,0.3,Reduzierte Gebühren,10042,simulation_reduzierte_gebühren_run1_seed10042.csv
+413.0,15968.0,8935.636666666667,2.0,54.0,0.0,0.0,0.2,0.3,Reduzierte Gebühren,10043,simulation_reduzierte_gebühren_run2_seed10043.csv
+401.0,16439.0,9157.920000000002,2.0,51.0,0.0,0.0,0.2,0.3,Reduzierte Gebühren,10044,simulation_reduzierte_gebühren_run3_seed10044.csv
